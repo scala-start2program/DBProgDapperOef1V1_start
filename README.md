@@ -20,3 +20,8 @@ Voeg aan deze database 2 tabellen toe :
     * Spelduur, int   
     * CatId, nvarchar(50) (FK met verwijzing naar Categorieën.Id)  
 
+## Opdracht  
+
+In het WPF project vind je al alle nodige controls om deze tabel te beheren.  
+Voorzie een class library die de schakel vormt tussen jouw applicatie en jouw database.  
+Gebruik Dapper/Dapper Contrib  
